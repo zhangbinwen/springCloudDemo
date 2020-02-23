@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9527  #自定义服务治理中心地址
